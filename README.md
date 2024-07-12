@@ -12,6 +12,7 @@ Clone the repository and browse through the different sections to get started. E
 
 ```bash
 git clone https://github.com/anmolmhaiskar/Javascript-Interview-Questions.git
+git checkout master
 cd javascript-interview-questions
 ```
 
