@@ -1,0 +1,2 @@
+console.log([] == ""); // true here both the elements which are getting compared are of different types hence [] => "" (gets converted to a string)
+console.log([] == []); // false // since both the elements are of same type hence there is no conversion takes place to string like in previous example and internally the == do the === comparision since it's the comparison of two object reference and they are stored in different location hence they are not equal
