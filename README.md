@@ -12,16 +12,15 @@ Clone the repository and browse through the different sections to get started. E
 
 ```bash
 git clone https://github.com/anmolmhaiskar/Javascript-Interview-Questions.git
-git checkout master
 cd javascript-interview-questions
 ```
 
 
-## **Contributing**
+## **How to contribute**
 We welcome contributions from the community! If you have a question, concept, or code example that you think would be valuable to others, please feel free to submit a pull request.
 
 1. Fork the repository
 2. Create a new branch (git checkout -b feature-new-question)
-3. Commit your changes (git commit -am 'Add new question')
+3. Commit your changes (git commit -m 'Add new question')
 4. Push to the branch (git push origin feature-new-question)
 5. Create a new Pull Request
